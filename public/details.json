@@ -1,0 +1,61 @@
+{
+    "pricedetails":[
+        {
+           "plan":"Free",
+           "price":"$0",
+           "Feautures":[
+            "Single User",
+"5GB Storage",
+"Unlimited Public Projects",
+"Community Access"
+           
+           ],
+           "LockedFeatures":[ "Unlimited Team Members",
+           "Dedicated Phone Support",
+           "Free subdomain",
+           "Monthly Status reports"
+
+           ]
+
+        },
+        {
+            "plan":"Plus",
+            "price":"$30",
+            "Feautures":[
+                "5 Users",
+                "5GB Storage",
+                "Unlimited Public Projects",
+                "Community Access",
+                "Unlimited Private Projects",
+                "Dedicated Phone Support",
+                "Free Subdomain"
+               
+               ],
+               "LockedFeatures":[ 
+               "Monthly Status reports"
+    
+               ]
+ 
+         },
+         {
+            "plan":"PRO",
+            "price":"$455",
+            "Feautures":[
+                                "Unlimited User",
+                    "152GB Storage",
+                    "Unlimited Public Projects",
+                    "Community Access",
+                    "Unlimited Private Projects",
+                    "Dedicated Phone Support",
+                    "Unlimited Subdomain",
+                    "Monthly Status Reports"
+               
+               ],
+               "LockedFeatures":[ 
+    
+               ]
+ 
+         }
+
+    ]
+}
